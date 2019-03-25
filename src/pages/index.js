@@ -21,21 +21,12 @@ class SiteIndex extends React.Component {
           <meta name="description" content={siteDescription} />
         </Hemlet>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. At augue
-          eget arcu dictum varius duis. Vestibulum lectus mauris ultrices eros
-          in cursus turpis. Blandit volutpat maecenas volutpat blandit aliquam
-          etiam. Sagittis purus sit amet volutpat. Nullam ac tortor vitae purus
-          faucibus ornare suspendisse. Vulputate sapien nec sagittis aliquam
-          malesuada. Quis imperdiet massa tincidunt nunc pulvinar sapien et
-          ligula ullamcorper. Sit amet cursus sit amet dictum sit amet.
-          Malesuada proin libero nunc consequat interdum varius sit amet. Sed
-          egestas egestas fringilla phasellus faucibus scelerisque eleifend.
-          Habitasse platea dictumst quisque sagittis. Sem viverra aliquet eget
-          sit amet tellus cras adipiscing enim. Amet massa vitae tortor
-          condimentum lacinia quis vel eros donec.
+        Billy is a Software Engineer with four years of experience developing android app and one year.<br/>
+        In Asus, he built the android app used on the company's Android-based device for user experience improvement.<br/>
+        He developed and maintained the in-house project management system that enables developer team for issues planning and tracking.<br/>
+        He's really passionate about software develpopent. He will move to the U.S. this year and would love to have the opportunity to work with the teams to make the XXXX better
         </p>
-        <img src={DisplayImage} alt={siteTitle} />
+        <img src={DisplayImage} alt={siteTitle} hight="800" width="400" />
       </Layout>
     )
   }

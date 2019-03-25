@@ -1,10 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: 'gatsby-minimal-portfolio-blog',
-    author: 'Sai Krishna',
+    title: 'Billy Hsieh',
+    author: 'Billy Hsieh',
     description:
-      'GatsbyJS starter for a minimal portfolio website with blog. Suitable for developers.',
-    siteUrl: 'https://saikrishna.me',
+      'portfolio website',
   },
   pathPrefix: '/',
   plugins: [
@@ -55,7 +54,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/assets/gatsby-icon.png`,
+        icon: `src/assets/bh-favicon.png`,
       },
     },
     `gatsby-plugin-offline`,
