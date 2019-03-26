@@ -4,7 +4,7 @@ import get from 'lodash/get'
 import Hemlet from 'react-helmet'
 
 import Layout from '../components/Layout'
-import DisplayImage from './../assets/images/boston_mickey.png'
+import DisplayImage from './../assets/images/boston_mickey.jpg'
 
 class SiteIndex extends React.Component {
   render() {

@@ -4,6 +4,7 @@ module.exports = {
     author: 'Billy Hsieh',
     description:
       'portfolio website',
+    siteUrl: 'https://billykuraki.github.io/'
   },
   pathPrefix: '/',
   plugins: [
@@ -42,19 +43,6 @@ module.exports = {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         trackingId: "UA-136961026-1",
-      },
-    },
-    `gatsby-plugin-feed`,
-    {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: `gatsby-minimal-portfolio-blog`,
-        short_name: `gmpb`,
-        start_url: `/`,
-        background_color: `#ffffff`,
-        theme_color: `#663399`,
-        display: `minimal-ui`,
-        icon: `src/assets/bh-favicon.png`,
       },
     },
     `gatsby-plugin-offline`,
