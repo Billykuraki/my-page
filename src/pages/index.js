@@ -20,15 +20,20 @@ class SiteIndex extends React.Component {
           <title>{siteTitle}</title>
           <meta name="description" content={siteDescription} />
         </Hemlet>
+
         <p>
-        I' am a Software Engineer who specialezes in Android and web development.
-        
-        Prevous I worked at Asus, where I built the android app used on the company's Android device.
-        I am also developed and maintained the in-house project management system that enables developer team for issues planning and tracking.<br/>
-        I am really passionate about software develpopent. will move to the U.S. this year and would love to have the opportunity to work with the teams to make the XXXX better
+          Hello. I'm Billy Hsieh.
         </p>
-              
+        <p>
+          I'm an expericed Software Developer who specialezes in Android and web development. In Asus, I built the android app used on the company's Android device.
+          I also developed and maintained the in-house project management system that enables developer team for issues planning and tracking.
+        </p>
+        <p>
+          I am really passionate about software develpopent. 
+          I will immigrant to the U.S. this year and currently looking for the new opportunitis in software developer position.
+        </p>
         <img src={DisplayImage} alt={siteTitle} hight="600" width="400" />
+        <p>Mickey and I in Fenway Park, Boston, Oct. 2018</p>
      
       </Layout>
     )
