@@ -4,7 +4,7 @@ import get from 'lodash/get'
 import Hemlet from 'react-helmet'
 
 import Layout from '../components/Layout'
-import DisplayImage from './../assets/images/main_image.jpg'
+import DisplayImage from './../assets/images/boston_mickey.png'
 
 class SiteIndex extends React.Component {
   render() {
@@ -21,12 +21,15 @@ class SiteIndex extends React.Component {
           <meta name="description" content={siteDescription} />
         </Hemlet>
         <p>
-        Billy is a Software Engineer with four years of experience developing android app and one year.<br/>
-        In Asus, he built the android app used on the company's Android-based device for user experience improvement.<br/>
-        He developed and maintained the in-house project management system that enables developer team for issues planning and tracking.<br/>
-        He's really passionate about software develpopent. He will move to the U.S. this year and would love to have the opportunity to work with the teams to make the XXXX better
+        I' am a Software Engineer who specialezes in Android and web development.
+        
+        Prevous I worked at Asus, where I built the android app used on the company's Android device.
+        I am also developed and maintained the in-house project management system that enables developer team for issues planning and tracking.<br/>
+        I am really passionate about software develpopent. will move to the U.S. this year and would love to have the opportunity to work with the teams to make the XXXX better
         </p>
-        <img src={DisplayImage} alt={siteTitle} hight="800" width="400" />
+              
+        <img src={DisplayImage} alt={siteTitle} hight="600" width="400" />
+     
       </Layout>
     )
   }
