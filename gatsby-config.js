@@ -2,8 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Billy Hsieh',
     author: 'Billy Hsieh',
-    description:
-      'portfolio website',
+    description:  'portfolio website',
     siteUrl: 'https://billykuraki.github.io/'
   },
   pathPrefix: '/',

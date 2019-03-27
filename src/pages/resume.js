@@ -46,7 +46,7 @@ class Resume extends React.Component {
       
         <h2>Work Experience</h2>
         <h4>Software Enginner Asus Computer Inc., Taipei, Taiwan. Aug 2014 - Feb 2019</h4>
-        <b>Zenbo: Android home robot</b> <a href="https://zenbo.asus.com">(https://zenbo.asus.com/)</a>
+        Zenbo: Android home robot <a href="https://zenbo.asus.com">(https://zenbo.asus.com/)</a>
         <ul>
           <li>
             Built various system-level device settings that enable cross-functional developers to monitor feature’s toggle status.
