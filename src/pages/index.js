@@ -27,12 +27,12 @@ class SiteIndex extends React.Component {
           Hello. I'm Billy Hsieh.
         </p>
         <p>
-          I'm an expericed Software Developer who specialezes in Android and web development. In Asus, I built the android app used on the company's Android device.
-          I also developed and maintained the in-house project management system that help developer team to manage and track issues.
+          I'm an experienced software developer who specializes in Android and web development. In Asus, I built the Android app used on the company's Android device.
+          I also developed and maintained the in-house project management system that helps developer team to manage and track issues.
         </p>
         <p>
-          I am really passionate about software develpopent. 
-          I will immigrant to the U.S. this year and am currently looking for the new opportunitis in software developer position.
+          I am really passionate about software development. 
+          I will immigrate to the U.S. this year and am currently looking for the new opportunities in software developer position.
         </p>
         <img src={DisplayImage} alt={siteTitle} hight="600" width="400" />
         <p>Mickey and I in Fenway Park, Boston, Oct. 2018</p>

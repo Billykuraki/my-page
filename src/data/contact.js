@@ -1,7 +1,5 @@
 const data = {
-  twitter: 'https://twitter.com/_skris',
-  github: 'https://github.com/s-kris',
-  linkedin: 'https://www.linkedin.com/in/saikrishnam/',
+  linkedin: 'https://www.linkedin.com/in/peihanhsieh/',
   email: null,
 }
 

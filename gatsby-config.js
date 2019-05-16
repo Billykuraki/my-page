@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Billy Hsieh',
     author: 'Billy Hsieh',
-    description:  'portfolio website',
+    description: 'portfolio website',
     siteUrl: 'https://billykuraki.github.io/'
   },
   pathPrefix: '/',
@@ -41,6 +41,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
+        trackingId: "UA-136961026-1",
       },
     },
     `gatsby-plugin-offline`,
