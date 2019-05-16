@@ -2,10 +2,7 @@
   "name": "gatsby-minimal-portfolio-blog",
   "description": "GatsbyJS starter for a minimal portfolio website with blog. Suitable for developers.",
   "version": "1.0.0",
-  "author": "Sai Krishna",
-  "bugs": {
-    "url": "https://github.com/s-kris/gatsby-minimal-portfolio-blog/issues"
-  },
+  "author": "Billy Hsieh",
   "dependencies": {
     "gatsby": "^2.0.19",
     "gatsby-plugin-feed": "^2.0.8",

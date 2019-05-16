@@ -39,9 +39,9 @@ class Resume extends React.Component {
             )
           }
         })} */}
-
+{/* 
         <FaLinkedin />       
-        <a href="http://www.linkedin.com/in/peihanhsieh" target="_new"> www.linkedin.com/in/peihanhsieh</a><br/>
+        <a href="http://www.linkedin.com/in/peihanhsieh" target="_new"> www.linkedin.com/in/peihanhsieh</a><br/> */}
  
       
         <h2>Work Experience</h2>

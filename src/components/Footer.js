@@ -21,6 +21,10 @@ export class Footer extends Component {
         <a href="https://gatsbyjs.org" target="_blank">
           GatsbyJS
         </a>
+        . Hosted on&nbsp;
+        <a href="https://pages.github.com/" target="_blank">
+          Github Pages
+        </a>
       </div>
     )
   }
