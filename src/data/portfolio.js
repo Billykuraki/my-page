@@ -5,13 +5,13 @@ const data = [
   {
     title: 'ASUS Do It Later',
     website: 'https://play.google.com/store/apps/details?id=com.asus.task&hl=en',
-    description: ` To do List app not only saved your normal task, but also saved third party app element.`,
+    description: `To do List app not only saved your normal task, but also saved third party app element.`,
     image: Image1,
   },
   {
     title: 'ASUS Zenbo',
-    website: 'https://example.com',
-    description: ` building the system-level settings for Android home robot.`,
+    website: 'https://zenbo.asus.com/',
+    description: `building the system-level settings for Android home robot.`,
     image: Image2,
   }
 ]
