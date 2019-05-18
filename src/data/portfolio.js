@@ -1,5 +1,5 @@
 import Image1 from './../assets/images/do_it_later.webp'
-import Image2 from './../assets/images/zenbo.png'
+import Image2 from './../assets/images/zenbo.jpg'
 
 const data = [
   {
@@ -9,7 +9,7 @@ const data = [
     image: Image1,
   },
   {
-    title: 'Asus Zenbo',
+    title: 'ASUS Zenbo',
     website: 'https://example.com',
     description: ` building the system-level settings for Android home robot.`,
     image: Image2,

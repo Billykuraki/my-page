@@ -3,6 +3,7 @@ import { Link, graphql } from 'gatsby'
 import get from 'lodash/get'
 import Helmet from 'react-helmet'
 import { Grid, Row, Col } from 'react-flexbox-grid'
+import Image from 'react-bootstrap/Image'
 
 import Layout from '../../components/Layout'
 import portfolioData from './../../data/portfolio'
@@ -41,10 +42,14 @@ class portfolioIndex extends React.Component {
                         alignItems: 'center',
                       }}
                     >
+                    {/* <div>
+                    <Image src= {p.image} hight="200" width="200"  thumbnail />
+                    </div> */}
+                   
                       <div
                         style={{
-                          width: 140,
-                          height: 140,
+                          width: 200,
+                          height: 200,
                           margin: 10,
                           background: `url(${p.image})`,
                           backgroundSize: 'cover',
