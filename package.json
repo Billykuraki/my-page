@@ -26,6 +26,7 @@
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
     "react-flexbox-grid": "^2.1.2",
+    "react-grid-system": "^4.4.5",
     "react-helmet": "^5.2.0",
     "react-icon": "^1.0.0",
     "react-icons": "^3.2.2",

@@ -5,8 +5,6 @@ import get from 'lodash/get'
 import { withPrefix } from 'gatsby'
 
 import Layout from '../components/Layout'
-import contactData from './../data/contact'
-import { FaLinkedin } from 'react-icons/fa';
 
 class Resume extends React.Component {
   render() {
