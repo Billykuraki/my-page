@@ -24,17 +24,12 @@ class SiteIndex extends React.Component {
         </Hemlet>
 
         <p>
-          Hello. I'm Billy Hsieh.
-        </p>
-        <p>
-          I'm a software developer who specializes in Android development. I built various Android apps for the computer hardware company located in Taiwan.
-          Recently I'm learning expressJS to broaden my web-dev knowledge.
-        </p>
-        <p>
-          I will immigrate to the U.S. this year and am currently looking for the new opportunities in software developer position.
+          Billy is a passionate software developer who enjoys learning different technology.
+          He earned master's degree in Management Information Systems from National Central University in Taiwan and was a software engineer building Android app for consumer electronic products at Asus.
+          He came to the US this year and is fresh off the boat!
         </p>
         <img src={DisplayImage} alt={siteTitle} hight="600" width="400" />
-        <p>Mickey and I in Fenway Park, Boston, Oct. 2018</p>
+        <p>Fenway Park, Boston, Oct. 2018</p>
      
       </Layout>
     )
